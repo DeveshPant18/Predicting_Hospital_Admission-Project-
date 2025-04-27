@@ -48,13 +48,13 @@ To run the web application locally, follow these steps:
 1. Clone this repository:
 
     ```bash
-    git clone https://github.com/your-username/your-repository-name.git
+    git clone https://github.com/DeveshPant18/Predicting_Hospital_Admission-Project-
     ```
 
 2. Navigate to the project directory:
 
     ```bash
-    cd your-repository-name
+    cd Predicting_Hospital_Admission-Project-
     ```
 
 3. Install the required Python libraries:
